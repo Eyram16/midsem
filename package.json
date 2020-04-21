@@ -1,0 +1,19 @@
+{
+  "name": "easysoftcompany",
+  "version": "1.0.0",
+  "description": "this is an employee to do list application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "amedume linda",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  }
+}

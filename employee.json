@@ -1,0 +1,22 @@
+[
+    {
+        "employeeID": "IS100",
+        "name": "Gladys Tetteh",
+        "position": "Production Manager"
+    },
+    {
+        "employeeID": "IS110",
+        "name": "Fred Awotwe",
+        "position": "IT Manager"
+    },
+    {
+        "employeeID": "IS120",
+        "name": "Kelly Nartey",
+        "position": "HR Manager"
+    },
+    {
+        "employeeID": "IS130",
+        "name": "Raymond Fianko",
+        "position": "Web Manager"
+    }
+]
